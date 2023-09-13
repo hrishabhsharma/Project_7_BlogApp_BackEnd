@@ -1122,7 +1122,7 @@ const data = [
    "Recently, Chef Sanjeev Kapoor shared a simple and easy-to-make recipe of Batata Bhajiya.",
   content:
    "Monsoons are underway, bringing much-needed relief from the sweltering heat and high temperatures. It is also the perfect weather to gorge on some snacks while enjoying the rain, making the experience even better. If you’re wondering what to munch on in this rainy weather, we have got you covered. Recently, Chef Sanjeev Kapoor shared a simple and easy-to-make recipe of Batata Bhajiya.Also known as bataka na bhajiya or bataka na pita na bhajiya in Gujarat, this snack is close to every Gujarati’s heart. Before french fries came into the picture, this was the OG monsoon party snack! We know what you’re thinking–this fried food is not healthy. Well, you’re not wrong, but we are allowed to cheat on our diets once in a while.",
-  date: "",
+  date: "July 26, 2023",
  },
  {
   id: 82,
